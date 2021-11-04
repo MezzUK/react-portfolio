@@ -18,7 +18,7 @@ const ServicesSection = () => {
                     <h2>High <span>quality</span> services.</h2>
                     <Cards>
                         <Card>
-                            <div>
+                            <div className="icon">
                                 <img src={clock} alt="clock icon"/>
                                 <h3>Efficient</h3>
                             </div>
